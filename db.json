@@ -7,11 +7,13 @@
   "ejecuciones": {
     "ejecuciones":[
 		{
+			"idEjecucion":"ej_001",
 			"tiempoEjecucion": "19/02/2020 18:36",
 			"codigoEstado": "executing",
 			"importeDescuadre": ""
 		},
 		{
+			"idEjecucion":"ej_002",
 			"tiempoEjecucion": "18/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "300.00"
@@ -22,11 +24,13 @@
 			"importeDescuadre": "250819.71"
 		},
 		{
+			"idEjecucion":"ej_003",
 			"tiempoEjecucion": "12/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "125896.25"
 		},
 		{
+			"idEjecucion":"ej_004",
 			"date": "11/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "9626.12"
