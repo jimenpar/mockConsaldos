@@ -31,7 +31,7 @@
 		},
 		{
 			"idEjecucion":"ej_004",
-			"date": "11/02/2020 18:36",
+			"tiempoEjecucion": "11/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "9626.12"
 		}
