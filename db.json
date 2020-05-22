@@ -4,10 +4,37 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "ejecuciones": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "ejecuciones": {
+    "ejecuciones":[
+		{
+			'tiempoEjecucion': '19/02/2020 18:36',
+			'codigoEstado': 'executing',
+			'importeDescuadre': ''
+		},
+		{
+			'tiempoEjecucion': '18/02/2020 18:36',
+			'codigoEstado': 'finished',
+			'importeDescuadre': '300.00'
+		},
+		{
+			'tiempoEjecucion': '13/02/2020 18:12',
+			'codigoEstado': 'onError',
+			'importeDescuadre': '250819.71'
+		},
+		{
+			'tiempoEjecucion': '12/02/2020 18:36',
+			'codigoEstado': 'finished',
+			'importeDescuadre': '125896.25'
+		},
+		{
+			'date': '11/02/2020 18:36',
+			'codigoEstado': 'finished',
+			'importeDescuadre': '9626.12'
+		}
+	  ],
+    "paginas":1,
+    "total":5  
+  },
   "filtro": {
     "name": "typicode"
   }
