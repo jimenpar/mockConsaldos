@@ -18,28 +18,28 @@
 			"tiempoEjecucion": "18/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "300.00",
-			"observacion":"Observación ejecucion ej001"
+			"observacion":"Observación ejecucion ej002"
 		},
 		{
 			"idEjecucion":"ej003",
 			"tiempoEjecucion": "13/02/2020 18:12",
 			"codigoEstado": "onError",
 			"importeDescuadre": "250819.71",
-			"observacion":"Observación ejecucion ej001"
+			"observacion":"Observación ejecucion ej003"
 		},
 		{
 			"idEjecucion":"ej004",
 			"tiempoEjecucion": "12/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "125896.25",
-			"observacion":"Observación ejecucion ej001"
+			"observacion":"Observación ejecucion ej004"
 		},
 		{
 			"idEjecucion":"ej005",
 			"tiempoEjecucion": "11/02/2020 18:36",
 			"codigoEstado": "finished",
 			"importeDescuadre": "9626.12",
-			"observacion":"Observación ejecucion ej001"
+			"observacion":"Observación ejecucion ej005"
 		}
 	  ],
     "paginas":1,
