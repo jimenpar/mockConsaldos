@@ -352,6 +352,23 @@
 			"importeDescuadre":"300.00"
 	 }
   },
+  "resultadosICM":{
+		"resultados":[
+			{
+				"referenciaTransaccion":"CUN2002182038990",
+				"codigoEntidadAdeudo":"CAHMESMM",
+				"codigoEntidadAbono":"ESPBESMM",
+				"importe":"6420000.00",
+				"estadoPago":"SETTLED",
+				"entrada":"true",
+				"nombreOrdenante":"",
+				"nombreBeneficiario":"",
+				"CodigoMovimiento":""
+			}
+		],
+		"paginas":"2",
+		"total":"15"
+	},
   "resultadosPM01":{
 		"resultados":[
 			{
