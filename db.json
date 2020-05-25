@@ -45,7 +45,7 @@
 	 "detalles":[
 		 {
 			 "idConciliacion":"con_001",
-			 "NombreConciliacion":"Barrido A Ts2",
+			 "nombreConciliacion":"Barrido A Ts2",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -70,7 +70,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_002",
-			 "NombreConciliacion":"Valores",
+			 "nombreConciliacion":"Valores",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -95,7 +95,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_003",
-			 "NombreConciliacion":"Cupones/Amortizaciones en Póliza",
+			 "nombreConciliacion":"Cupones/Amortizaciones en Póliza",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -120,7 +120,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_004",
-			 "NombreConciliacion":"OMS",
+			 "nombreConciliacion":"OMS",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"4",
@@ -145,7 +145,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_005",
-			 "NombreConciliacion":"Cámaras",
+			 "nombreConciliacion":"Cámaras",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -170,7 +170,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_006",
-			 "NombreConciliacion":"Liquidación por Diferencias",
+			 "nombreConciliacion":"Liquidación por Diferencias",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -195,7 +195,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_007",
-			 "NombreConciliacion":"MEFF",
+			 "nombreConciliacion":"MEFF",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -220,7 +220,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_008",
-			 "NombreConciliacion":"Gestión Efectivo",
+			 "nombreConciliacion":"Gestión Efectivo",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -245,7 +245,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_009",
-			 "NombreConciliacion":"Impuestos",
+			 "nombreConciliacion":"Impuestos",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -270,7 +270,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_010",
-			 "NombreConciliacion":"Subastas y Depósitos Interbancarios",
+			 "nombreConciliacion":"Subastas y Depósitos Interbancarios",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
@@ -295,7 +295,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_011",
-			 "NombreConciliacion":"Barrido Cuentas Corrientes",
+			 "nombreConciliacion":"Barrido Cuentas Corrientes",
 			 "icm":{
 				 "numOperacionesEntrada":"1",
 				 "numOperacionesSalida":"",
@@ -320,7 +320,7 @@
 		 },
 		 {
 			 "idConciliacion":"con_012",
-			 "NombreConciliacion":"Cajón de Sastre",
+			 "nombreConciliacion":"Cajón de Sastre",
 			 "icm":{
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"",
