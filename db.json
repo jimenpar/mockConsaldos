@@ -125,14 +125,14 @@
 				 "numOperacionesEntrada":"",
 				 "numOperacionesSalida":"4",
 				 "importeTotalEntrada":"",
-				 "importeTotalSalida":"",
-				 "importeDescuadre":"600.00"
+				 "importeTotalSalida":"600.00",
+				 "importeDescuadre":""
 			 },
 			 "pm":{
-				 "numOperacionesEntrada":"4",
-				 "numOperacionesSalida":"600.00",
+				 "numOperacionesEntrada":"",
+				 "numOperacionesSalida":"2",
 				 "importeTotalEntrada":"",
-				 "importeTotalSalida":"",
+				 "importeTotalSalida":"300.00",
 				 "importeDescuadre":""
 			 },
 			 "total":{
