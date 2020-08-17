@@ -52,25 +52,18 @@
 			 "idConciliacion":"con_001",
 			 "nombreConciliacion":"Barrido A Ts2",
 			 "icm":{
-				 "numOperacionesEntrada":"",
-				 "numOperacionesSalida":"",
-				 "importeTotalEntrada":"",
-				 "importeTotalSalida":"",
-				 "importeDescuadre":""
+				 "numOperacionesEntrada":"0",
+				 "numOperacionesSalida":"0"
+
 			 },
 			 "pm":{
-				 "numOperacionesEntrada":"",
-				 "numOperacionesSalida":"",
-				 "importeTotalEntrada":"",
-				 "importeTotalSalida":"",
-				 "importeDescuadre":""
+				 "numOperacionesEntrada":"0",
+				 "numOperacionesSalida":"0"
+	
 			 },
 			 "total":{
-				 "numOperacionesEntrada":"",
-				 "numOperacionesSalida":"",
-				 "importeTotalEntrada":"",
-				 "importeTotalSalida":"",
-				 "importeDescuadre":""
+				 "numOperacionesEntrada":"0",
+				 "numOperacionesSalida":"0"
 			 }
 		 },
 		 {
